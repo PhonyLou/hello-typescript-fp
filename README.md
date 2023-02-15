@@ -19,3 +19,21 @@ I want to create a typescript application uses Jest as test lib, and react, coul
 5. npm test
 
 ### You:
+Now I want to have an Input box to let users type in Book name, the book name should follow below validation rules:
+it allows user to type in words A to Z (and a to z), 0-9;
+if the input length greater than 30, raise an alert to user;
+if the input length is 0, raise an alert to user;
+
+Based on rules above, generate test code for me.
+
+### ChatGPT:
+blablabla
+
+### You:
+I don't have BookInput component, what's the next step
+
+### ChatGPT:
+blablabla
+
+### You:
+the Expected: "Harry Potter and the Philosopher's Stone" doesn't match Received: "HarryPotterandthePhilosophersS"
