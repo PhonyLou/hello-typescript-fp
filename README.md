@@ -2,6 +2,10 @@
 I'm pairing with ChatGPT to build this repo. Hope it could guide me to finish a comprehensive demo with Jest, Typescript, React, and Functional Programming concepts.
 我想要和ChatGPT一起写点代码，看看它能帮我做什么。
 
+聊天内容导出在[这个文件夹](https://github.com/PhonyLou/hello-typescript-fp/tree/master/chatHistory)里。 I'm using [this tool](https://github.com/pionxzh/chatgpt-exporter) to expose chat history. 
+
+Have Fun!
+
 ### You:
 I'm new frontend developer, could you play as an senior developer to guide me
 
