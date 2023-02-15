@@ -2,20 +2,20 @@
 I'm pairing with ChatGPT to build this repo. Hope it could guide me to finish a comprehensive demo with Jest, Typescript, React, and Functional Programming concepts.
 我想要和ChatGPT一起写点代码，看看它能帮我做什么。
 
-You:
-I'm a new front end developer, I want to learn Functional Programming by using Typescript, Jest and React. In the end, I want to build an application which can display a book list in browser with functions to add or remove item from the list. How can I start?
+### You:
+I'm new frontend developer, could you play as an senior developer to guide me
 
-ChatGPT:
+### ChatGPT:
 blablabla (without any code lol)
 
-You:
-At the very beginning, I want to setup a new application, how to do that?
+### You:
+I want to create a typescript application uses Jest as test lib, and react, could you let me know what's the 1st step to do?
 
-ChatGPT:
-1. Install Node.js
-2. npx create-react-app my-app --template typescript
-3. npm install --save-dev jest @types/jest
-4. Add package.json with following: "test": "jest"
-5. npm install react-router-dom @types/react-router-dom
-6. npm start
+### ChatGPT:
+1. npx create-react-app my-app --template typescript
+2. npm install --save-dev jest @types/jest
+3. (it suggests to add `jest.config.js` file, but I didn't follow.)
+4. Write some tests: Create a new folder called __tests__ in your src folder, and create some test files inside it. For example, you could create a file called App.test.tsx with the following code:
+5. npm test
 
+### You:
